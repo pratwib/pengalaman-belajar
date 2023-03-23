@@ -1,1 +1,5 @@
-hello world buat error agar conflict
+hello world saja
+
+squash 1
+squash 2
+squash 3
