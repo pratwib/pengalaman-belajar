@@ -2,3 +2,4 @@ hello world saja
 
 squash 1
 squash 2
+squash 3
